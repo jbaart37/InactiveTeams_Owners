@@ -45,6 +45,6 @@ The script generates a CSV file (`inactive_teams.csv`) with the following column
 
 ```csv
 "TeamName","LastActivityDate","OwnerUPN","OwnerDisplayName"
-"Mark 8 Project Team","6/28/2024 2:25:51 PM","user1@yourdomain.com","MOD Administrator"
+"Mark 8 Project Team","6/28/2024 2:25:51 PM","user1@yourdomain.com","Test User"
 "Mark 8 Project Team","6/28/2024 2:25:51 PM","Jane@yourdomain.com","Jane Jones"
 ...
